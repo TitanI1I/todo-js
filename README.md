@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Esta aplicación fue creada en base al anterior proyecto de Webpack     
 
 ### Notas:
 Recordar reconstruir los módulos de Node
